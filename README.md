@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://twitter.com/taksuparth" target="blank"><img src="https://img.shields.io/twitter/follow/taksuparth?logo=twitter&style=for-the-badge" alt="taksuparth" /></a> </p>
 
 <a target="_blank" align="center">
-  <img align="right" height="280" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+  <img align="right" height="270" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
 - 🔭 I’m currently working in <a href="https://www.sprinklr.com/" target="blank">Sprinklr</a>
