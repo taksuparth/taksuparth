@@ -1,12 +1,12 @@
-- 👋 Hi, I’m Parth
-- 👀 I’m interested in building amazing products which can help world to become better place!
-- 💞️ I’m looking to collaborate on projects which requires frontend help.
-- 📫 You can reach me on 
-  - twitter - https://twitter.com/taksuparth
-  - email - taksuparth@gmail.com
+# Hey there! 👋 I am Parth
+![](https://komarev.com/ghpvc/?username=taksuparth)
 
+    💻 Director at Sprinklr
+    📈 Currently working on React, TypeScript and GraphQL
+    📥 How to reach me: taksuparth@gmail.com
 
-<!---
-taksuparth/taksuparth is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![Parth's github stats](https://github-readme-stats.vercel.app/api?username=taksuparth&count_private=true&show_icons=true&theme=light)
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=taksuparth&theme=light)  
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/parth-shah-ba029311a)](https://www.linkedin.com/in/parth-shah-ba029311a/)
