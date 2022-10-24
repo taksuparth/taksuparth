@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://twitter.com/taksuparth" target="blank"><img src="https://img.shields.io/twitter/follow/taksuparth?logo=twitter&style=for-the-badge" alt="taksuparth" /></a> </p>
 
 <a target="_blank" align="center">
-  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+  <img align="right" height="280" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
 - 🔭 I’m currently working in <a href="https://www.sprinklr.com/" target="blank">Sprinklr</a>
@@ -23,7 +23,7 @@
 
 - 📄 Know about my experiences <a href="https://github.com/taksuparth/taksuparth/blob/main/Parth%20CV.pdf" target="blank">Resume</a>
 <br/>
-<h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
+<h3 align="center"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 
 <p align="center">
 
