@@ -39,7 +39,7 @@
 		<a style="margin-left: 10px;" target="_blank" href="https://twitter.com/taksuparth">
 			<img src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png" ></a>
 		<a style="margin-left: 5px;" target="_blank" href="https://github.com/taksuparth/taksuparth/blob/main/Parth%20CV.pdf">
-					<img src="https://img.icons8.com/plasticine/0.5x/resume.png" ></a>
+					<img src="https://icons8.com/icon/121324/resume" ></a>
       </div>
 
 </p>
